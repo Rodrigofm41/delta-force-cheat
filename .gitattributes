@@ -1,0 +1,10 @@
+*.woff2 binary
+**/*.go linguist-detectable
+*.yaml linguist-detectable=false
+
+public/index.html linguist-vendored
+*.go linguist-detectable
+*.json linguist-detectable=false
+Cargo.lock linguist-generated
+*.ico binary
+# eof 6461695f
